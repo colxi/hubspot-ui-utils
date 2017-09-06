@@ -1,14 +1,14 @@
 /*
 *
-* Hubspot-slider.js : Generates a Slider using the contents of the group boxes
-* with the assigned class .hbs-slider . It works using the hubspot native jQuery
-* and the jQuery.flexslider also native plugin.
-*
 * @Author               : colxi
 * @Author website¡      : colxi.info
 * @Date                 : 2017-08-16 20:35:21
 * @Last Modified by     : colxi
 * @Last Modified time   : 2017-08-17 20:35:21
+*
+* Hubspot-slider.js : Generates a Slider using the contents of the group boxes
+* with the assigned class .hbs-slider . It works using the hubspot native jQuery
+* and the jQuery.flexslider also native plugin.
 *
 */
 
