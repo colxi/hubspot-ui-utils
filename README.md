@@ -1,4 +1,10 @@
 # hubspot-ui-utils
+
+![](https://img.shields.io/badge/cdn-cdn.rawgit-green.svg)
+![](https://img.shields.io/badge/poweredBy-jQuery-blue.svg)
+![](https://img.shields.io/badge/Hubspot-on%20Steroids-orange.svg)
+
+
 Set of utilities and tools that can be imported to any hubspot template by simply including to the header the reference to the script, and generally aplying a special class , on those elements wich need to be transformed, or are being targeted.
 
 ### FILE DESCRIPTION AND USAGE
